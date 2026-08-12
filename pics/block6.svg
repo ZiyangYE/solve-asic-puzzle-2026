@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="712" viewBox="0 0 900 712">
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#64748b"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="24" y="30" font-family="sans-serif" font-size="18" font-weight="bold">block_06 register dependencies</text>
+<path d="M732 75 C830 30, 830 120, 728 87" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 143 C820 143, 820 75, 732 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 211 C820 211, 820 75, 732 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 279 C820 279, 820 75, 732 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 347 C820 347, 820 75, 732 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 415 C820 415, 820 75, 732 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 483 C820 483, 820 75, 732 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 551 C820 551, 820 75, 732 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 619 C820 619, 820 75, 732 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 80 C395.0 80, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 75 C820 75, 820 279, 732 279" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 279 C830 234, 830 324, 728 291" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 347 C820 347, 820 279, 732 279" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 415 C820 415, 820 279, 732 279" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 483 C820 483, 820 279, 732 279" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 80 C395.0 80, 395.0 279, 568 279" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 75 C820 75, 820 347, 732 347" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 279 C820 279, 820 347, 732 347" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 347 C830 302, 830 392, 728 359" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 483 C820 483, 820 347, 732 347" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 80 C395.0 80, 395.0 347, 568 347" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 75 C820 75, 820 415, 732 415" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 279 C820 279, 820 415, 732 415" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 347 C820 347, 820 415, 732 415" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 415 C830 370, 830 460, 728 427" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 483 C820 483, 820 415, 732 415" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 80 C395.0 80, 395.0 415, 568 415" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 75 C820 75, 820 483, 732 483" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 279 C820 279, 820 483, 732 483" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 347 C820 347, 820 483, 732 483" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 415 C820 415, 820 483, 732 483" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 483 C830 438, 830 528, 728 495" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 80 C395.0 80, 395.0 483, 568 483" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 75 C820 75, 820 143, 732 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 143 C830 98, 830 188, 728 155" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 211 C820 211, 820 143, 732 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 279 C820 279, 820 143, 732 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 347 C820 347, 820 143, 732 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 415 C820 415, 820 143, 732 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 483 C820 483, 820 143, 732 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 551 C820 551, 820 143, 732 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 619 C820 619, 820 143, 732 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 80 C395.0 80, 395.0 143, 568 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 75 C820 75, 820 211, 732 211" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 143 C820 143, 820 211, 732 211" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 211 C830 166, 830 256, 728 223" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 279 C820 279, 820 211, 732 211" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 347 C820 347, 820 211, 732 211" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 415 C820 415, 820 211, 732 211" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 483 C820 483, 820 211, 732 211" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 551 C820 551, 820 211, 732 211" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 619 C820 619, 820 211, 732 211" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 80 C395.0 80, 395.0 211, 568 211" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 75 C820 75, 820 551, 732 551" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 143 C820 143, 820 551, 732 551" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 211 C820 211, 820 551, 732 551" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 279 C820 279, 820 551, 732 551" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 347 C820 347, 820 551, 732 551" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 415 C820 415, 820 551, 732 551" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 483 C820 483, 820 551, 732 551" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 551 C830 506, 830 596, 728 563" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 80 C395.0 80, 395.0 551, 568 551" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 75 C820 75, 820 619, 732 619" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 143 C820 143, 820 619, 732 619" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 211 C820 211, 820 619, 732 619" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 279 C820 279, 820 619, 732 619" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 347 C820 347, 820 619, 732 619" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 415 C820 415, 820 619, 732 619" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 483 C820 483, 820 619, 732 619" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 551 C820 551, 820 619, 732 619" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 619 C830 574, 830 664, 728 631" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 80 C395.0 80, 395.0 619, 568 619" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<rect x="58" y="56" width="164" height="48" rx="7" fill="#dcfce7" stroke="#475569"/>
+<text x="140" y="77" text-anchor="middle" font-family="monospace" font-size="12">enable</text>
+<text x="140" y="94" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">primary</text>
+<rect x="568" y="51" width="164" height="48" rx="7" fill="#dbeafe" stroke="#475569"/>
+<text x="650" y="72" text-anchor="middle" font-family="monospace" font-size="12">u0077</text>
+<text x="650" y="89" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">local</text>
+<rect x="568" y="119" width="164" height="48" rx="7" fill="#dbeafe" stroke="#475569"/>
+<text x="650" y="140" text-anchor="middle" font-family="monospace" font-size="12">u0079</text>
+<text x="650" y="157" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">local</text>
+<rect x="568" y="187" width="164" height="48" rx="7" fill="#dbeafe" stroke="#475569"/>
+<text x="650" y="208" text-anchor="middle" font-family="monospace" font-size="12">u0081</text>
+<text x="650" y="225" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">local</text>
+<rect x="568" y="255" width="164" height="48" rx="7" fill="#dbeafe" stroke="#475569"/>
+<text x="650" y="276" text-anchor="middle" font-family="monospace" font-size="12">u0089</text>
+<text x="650" y="293" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">local</text>
+<rect x="568" y="323" width="164" height="48" rx="7" fill="#dbeafe" stroke="#475569"/>
+<text x="650" y="344" text-anchor="middle" font-family="monospace" font-size="12">u0118</text>
+<text x="650" y="361" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">local</text>
+<rect x="568" y="391" width="164" height="48" rx="7" fill="#dbeafe" stroke="#475569"/>
+<text x="650" y="412" text-anchor="middle" font-family="monospace" font-size="12">u0129</text>
+<text x="650" y="429" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">local</text>
+<rect x="568" y="459" width="164" height="48" rx="7" fill="#dbeafe" stroke="#475569"/>
+<text x="650" y="480" text-anchor="middle" font-family="monospace" font-size="12">u0141</text>
+<text x="650" y="497" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">local</text>
+<rect x="568" y="527" width="164" height="48" rx="7" fill="#dbeafe" stroke="#475569"/>
+<text x="650" y="548" text-anchor="middle" font-family="monospace" font-size="12">u0157</text>
+<text x="650" y="565" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">local</text>
+<rect x="568" y="595" width="164" height="48" rx="7" fill="#dbeafe" stroke="#475569"/>
+<text x="650" y="616" text-anchor="middle" font-family="monospace" font-size="12">u0158</text>
+<text x="650" y="633" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">local</text>
+</svg>

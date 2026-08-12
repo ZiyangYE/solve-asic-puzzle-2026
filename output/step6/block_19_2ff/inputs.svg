@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="643" viewBox="0 0 900 643">
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#64748b"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="24" y="30" font-family="sans-serif" font-size="18" font-weight="bold">block_19 register dependencies</text>
+<rect x="20" y="55" width="240" height="380" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="73" font-family="monospace" font-size="11" fill="#475569">block_06</text>
+<path d="M222 115 C395.0 115, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 183 C395.0 183, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 75 C830 30, 830 120, 728 87" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 251 C395.0 251, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 319 C395.0 319, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 387 C395.0 387, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 143 C820 143, 820 75, 732 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 477 C395.0 477, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 545 C395.0 545, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 115 C395.0 115, 395.0 143, 568 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 183 C395.0 183, 395.0 143, 568 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 75 C820 75, 820 143, 732 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 251 C395.0 251, 395.0 143, 568 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 319 C395.0 319, 395.0 143, 568 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 387 C395.0 387, 395.0 143, 568 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 143 C830 98, 830 188, 728 155" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 477 C395.0 477, 395.0 143, 568 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 545 C395.0 545, 395.0 143, 568 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<rect x="58" y="453" width="164" height="48" rx="7" fill="#dcfce7" stroke="#475569"/>
+<text x="140" y="474" text-anchor="middle" font-family="monospace" font-size="12">I</text>
+<text x="140" y="491" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">primary</text>
+<rect x="58" y="521" width="164" height="48" rx="7" fill="#dcfce7" stroke="#475569"/>
+<text x="140" y="542" text-anchor="middle" font-family="monospace" font-size="12">enable</text>
+<text x="140" y="559" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">primary</text>
+<rect x="58" y="91" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="112" text-anchor="middle" font-family="monospace" font-size="12">u0077</text>
+<text x="140" y="129" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_06</text>
+<rect x="58" y="159" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="180" text-anchor="middle" font-family="monospace" font-size="12">u0089</text>
+<text x="140" y="197" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_06</text>
+<rect x="58" y="227" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="248" text-anchor="middle" font-family="monospace" font-size="12">u0118</text>
+<text x="140" y="265" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_06</text>
+<rect x="58" y="295" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="316" text-anchor="middle" font-family="monospace" font-size="12">u0129</text>
+<text x="140" y="333" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_06</text>
+<rect x="58" y="363" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="384" text-anchor="middle" font-family="monospace" font-size="12">u0141</text>
+<text x="140" y="401" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_06</text>
+<rect x="568" y="51" width="164" height="48" rx="7" fill="#dbeafe" stroke="#475569"/>
+<text x="650" y="72" text-anchor="middle" font-family="monospace" font-size="12">u0098</text>
+<text x="650" y="89" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">local</text>
+<rect x="568" y="119" width="164" height="48" rx="7" fill="#dbeafe" stroke="#475569"/>
+<text x="650" y="140" text-anchor="middle" font-family="monospace" font-size="12">u0160</text>
+<text x="650" y="157" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">local</text>
+</svg>

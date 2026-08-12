@@ -1,0 +1,281 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="5191" viewBox="0 0 900 5191">
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#64748b"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="24" y="30" font-family="sans-serif" font-size="18" font-weight="bold">block_26 register dependencies</text>
+<rect x="20" y="55" width="240" height="584" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="73" font-family="monospace" font-size="11" fill="#475569">block_01</text>
+<rect x="20" y="656" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="674" font-family="monospace" font-size="11" fill="#475569">block_02</text>
+<rect x="20" y="849" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="867" font-family="monospace" font-size="11" fill="#475569">block_03</text>
+<rect x="20" y="1042" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="1060" font-family="monospace" font-size="11" fill="#475569">block_04</text>
+<rect x="20" y="1235" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="1253" font-family="monospace" font-size="11" fill="#475569">block_05</text>
+<rect x="20" y="1584" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="1602" font-family="monospace" font-size="11" fill="#475569">block_08</text>
+<rect x="20" y="1777" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="1795" font-family="monospace" font-size="11" fill="#475569">block_09</text>
+<rect x="20" y="1970" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="1988" font-family="monospace" font-size="11" fill="#475569">block_10</text>
+<rect x="20" y="2163" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="2181" font-family="monospace" font-size="11" fill="#475569">block_11</text>
+<rect x="20" y="2356" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="2374" font-family="monospace" font-size="11" fill="#475569">block_12</text>
+<rect x="20" y="2627" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="2645" font-family="monospace" font-size="11" fill="#475569">block_14</text>
+<rect x="20" y="2820" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="2838" font-family="monospace" font-size="11" fill="#475569">block_15</text>
+<rect x="20" y="3013" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="3031" font-family="monospace" font-size="11" fill="#475569">block_16</text>
+<rect x="20" y="3206" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="3224" font-family="monospace" font-size="11" fill="#475569">block_17</text>
+<rect x="20" y="3399" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="3417" font-family="monospace" font-size="11" fill="#475569">block_18</text>
+<rect x="20" y="3592" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="3610" font-family="monospace" font-size="11" fill="#475569">block_19</text>
+<rect x="20" y="3785" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="3803" font-family="monospace" font-size="11" fill="#475569">block_20</text>
+<rect x="20" y="3978" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="3996" font-family="monospace" font-size="11" fill="#475569">block_21</text>
+<rect x="20" y="4171" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="4189" font-family="monospace" font-size="11" fill="#475569">block_22</text>
+<rect x="20" y="4364" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="4382" font-family="monospace" font-size="11" fill="#475569">block_23</text>
+<rect x="20" y="4557" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="4575" font-family="monospace" font-size="11" fill="#475569">block_24</text>
+<rect x="20" y="4750" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="4768" font-family="monospace" font-size="11" fill="#475569">block_25</text>
+<rect x="20" y="4943" width="240" height="176" rx="8" fill="none" stroke="#64748b" stroke-dasharray="7 5"/>
+<text x="32" y="4961" font-family="monospace" font-size="11" fill="#475569">block_27</text>
+<path d="M222 3459 C395.0 3459, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 4231 C395.0 4231, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 1453 C395.0 1453, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 2416 C395.0 2416, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 909 C395.0 909, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 2030 C395.0 2030, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 115 C395.0 115, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 183 C395.0 183, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 977 C395.0 977, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 3845 C395.0 3845, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 2223 C395.0 2223, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 716 C395.0 716, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 3527 C395.0 3527, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 4810 C395.0 4810, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 1837 C395.0 1837, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 3652 C395.0 3652, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 1102 C395.0 1102, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 3073 C395.0 3073, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 2574 C395.0 2574, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 251 C395.0 251, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 75 C830 30, 830 120, 728 87" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 4424 C395.0 4424, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 4299 C395.0 4299, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 4038 C395.0 4038, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 2687 C395.0 2687, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 319 C395.0 319, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 387 C395.0 387, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 2880 C395.0 2880, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 5003 C395.0 5003, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 4878 C395.0 4878, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 2484 C395.0 2484, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 1295 C395.0 1295, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 1644 C395.0 1644, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 2098 C395.0 2098, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 3266 C395.0 3266, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 2755 C395.0 2755, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 455 C395.0 455, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 523 C395.0 523, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 784 C395.0 784, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 1905 C395.0 1905, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 1170 C395.0 1170, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 1531 C395.0 1531, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 143 C820 143, 820 75, 732 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 3141 C395.0 3141, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 4106 C395.0 4106, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 3913 C395.0 3913, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 3334 C395.0 3334, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 4492 C395.0 4492, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 4617 C395.0 4617, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 5071 C395.0 5071, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 1363 C395.0 1363, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 4685 C395.0 4685, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 1712 C395.0 1712, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 2948 C395.0 2948, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 2291 C395.0 2291, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 3720 C395.0 3720, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 591 C395.0 591, 395.0 75, 568 75" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M222 1453 C395.0 1453, 395.0 143, 568 143" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<path d="M732 143 C830 98, 830 188, 728 155" fill="none" stroke="#64748b" stroke-opacity="0.65" marker-end="url(#arrow)"/>
+<rect x="58" y="3435" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="3456" text-anchor="middle" font-family="monospace" font-size="12">u0075</text>
+<text x="140" y="3473" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_18</text>
+<rect x="58" y="4207" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="4228" text-anchor="middle" font-family="monospace" font-size="12">u0076</text>
+<text x="140" y="4245" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_22</text>
+<rect x="58" y="1429" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="1450" text-anchor="middle" font-family="monospace" font-size="12">u0077</text>
+<text x="140" y="1467" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_06</text>
+<rect x="58" y="2392" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="2413" text-anchor="middle" font-family="monospace" font-size="12">u0078</text>
+<text x="140" y="2430" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_12</text>
+<rect x="58" y="885" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="906" text-anchor="middle" font-family="monospace" font-size="12">u0083</text>
+<text x="140" y="923" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_03</text>
+<rect x="58" y="2006" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="2027" text-anchor="middle" font-family="monospace" font-size="12">u0084</text>
+<text x="140" y="2044" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_10</text>
+<rect x="58" y="91" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="112" text-anchor="middle" font-family="monospace" font-size="12">u0085</text>
+<text x="140" y="129" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_01</text>
+<rect x="58" y="159" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="180" text-anchor="middle" font-family="monospace" font-size="12">u0086</text>
+<text x="140" y="197" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_01</text>
+<rect x="58" y="953" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="974" text-anchor="middle" font-family="monospace" font-size="12">u0090</text>
+<text x="140" y="991" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_03</text>
+<rect x="58" y="3821" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="3842" text-anchor="middle" font-family="monospace" font-size="12">u0091</text>
+<text x="140" y="3859" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_20</text>
+<rect x="58" y="2199" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="2220" text-anchor="middle" font-family="monospace" font-size="12">u0092</text>
+<text x="140" y="2237" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_11</text>
+<rect x="58" y="692" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="713" text-anchor="middle" font-family="monospace" font-size="12">u0093</text>
+<text x="140" y="730" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_02</text>
+<rect x="58" y="3503" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="3524" text-anchor="middle" font-family="monospace" font-size="12">u0094</text>
+<text x="140" y="3541" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_18</text>
+<rect x="58" y="4786" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="4807" text-anchor="middle" font-family="monospace" font-size="12">u0095</text>
+<text x="140" y="4824" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_25</text>
+<rect x="58" y="1813" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="1834" text-anchor="middle" font-family="monospace" font-size="12">u0097</text>
+<text x="140" y="1851" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_09</text>
+<rect x="58" y="3628" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="3649" text-anchor="middle" font-family="monospace" font-size="12">u0098</text>
+<text x="140" y="3666" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_19</text>
+<rect x="58" y="1078" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="1099" text-anchor="middle" font-family="monospace" font-size="12">u0099</text>
+<text x="140" y="1116" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_04</text>
+<rect x="58" y="3049" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="3070" text-anchor="middle" font-family="monospace" font-size="12">u0100</text>
+<text x="140" y="3087" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_16</text>
+<rect x="58" y="2550" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="2571" text-anchor="middle" font-family="monospace" font-size="12">u0101</text>
+<text x="140" y="2588" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_13</text>
+<rect x="58" y="227" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="248" text-anchor="middle" font-family="monospace" font-size="12">u0102</text>
+<text x="140" y="265" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_01</text>
+<rect x="58" y="4400" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="4421" text-anchor="middle" font-family="monospace" font-size="12">u0106</text>
+<text x="140" y="4438" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_23</text>
+<rect x="58" y="4275" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="4296" text-anchor="middle" font-family="monospace" font-size="12">u0108</text>
+<text x="140" y="4313" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_22</text>
+<rect x="58" y="4014" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="4035" text-anchor="middle" font-family="monospace" font-size="12">u0113</text>
+<text x="140" y="4052" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_21</text>
+<rect x="58" y="2663" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="2684" text-anchor="middle" font-family="monospace" font-size="12">u0114</text>
+<text x="140" y="2701" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_14</text>
+<rect x="58" y="295" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="316" text-anchor="middle" font-family="monospace" font-size="12">u0115</text>
+<text x="140" y="333" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_01</text>
+<rect x="58" y="363" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="384" text-anchor="middle" font-family="monospace" font-size="12">u0116</text>
+<text x="140" y="401" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_01</text>
+<rect x="58" y="2856" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="2877" text-anchor="middle" font-family="monospace" font-size="12">u0117</text>
+<text x="140" y="2894" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_15</text>
+<rect x="58" y="4979" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="5000" text-anchor="middle" font-family="monospace" font-size="12">u0119</text>
+<text x="140" y="5017" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_27</text>
+<rect x="58" y="4854" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="4875" text-anchor="middle" font-family="monospace" font-size="12">u0120</text>
+<text x="140" y="4892" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_25</text>
+<rect x="58" y="2460" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="2481" text-anchor="middle" font-family="monospace" font-size="12">u0121</text>
+<text x="140" y="2498" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_12</text>
+<rect x="58" y="1271" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="1292" text-anchor="middle" font-family="monospace" font-size="12">u0122</text>
+<text x="140" y="1309" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_05</text>
+<rect x="58" y="1620" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="1641" text-anchor="middle" font-family="monospace" font-size="12">u0123</text>
+<text x="140" y="1658" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_08</text>
+<rect x="58" y="2074" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="2095" text-anchor="middle" font-family="monospace" font-size="12">u0124</text>
+<text x="140" y="2112" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_10</text>
+<rect x="58" y="3242" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="3263" text-anchor="middle" font-family="monospace" font-size="12">u0125</text>
+<text x="140" y="3280" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_17</text>
+<rect x="58" y="2731" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="2752" text-anchor="middle" font-family="monospace" font-size="12">u0126</text>
+<text x="140" y="2769" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_14</text>
+<rect x="58" y="431" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="452" text-anchor="middle" font-family="monospace" font-size="12">u0127</text>
+<text x="140" y="469" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_01</text>
+<rect x="58" y="499" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="520" text-anchor="middle" font-family="monospace" font-size="12">u0128</text>
+<text x="140" y="537" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_01</text>
+<rect x="58" y="760" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="781" text-anchor="middle" font-family="monospace" font-size="12">u0133</text>
+<text x="140" y="798" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_02</text>
+<rect x="58" y="1881" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="1902" text-anchor="middle" font-family="monospace" font-size="12">u0136</text>
+<text x="140" y="1919" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_09</text>
+<rect x="58" y="1146" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="1167" text-anchor="middle" font-family="monospace" font-size="12">u0137</text>
+<text x="140" y="1184" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_04</text>
+<rect x="58" y="1507" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="1528" text-anchor="middle" font-family="monospace" font-size="12">u0143</text>
+<text x="140" y="1545" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_07</text>
+<rect x="58" y="3117" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="3138" text-anchor="middle" font-family="monospace" font-size="12">u0145</text>
+<text x="140" y="3155" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_16</text>
+<rect x="58" y="4082" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="4103" text-anchor="middle" font-family="monospace" font-size="12">u0146</text>
+<text x="140" y="4120" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_21</text>
+<rect x="58" y="3889" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="3910" text-anchor="middle" font-family="monospace" font-size="12">u0147</text>
+<text x="140" y="3927" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_20</text>
+<rect x="58" y="3310" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="3331" text-anchor="middle" font-family="monospace" font-size="12">u0148</text>
+<text x="140" y="3348" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_17</text>
+<rect x="58" y="4468" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="4489" text-anchor="middle" font-family="monospace" font-size="12">u0149</text>
+<text x="140" y="4506" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_23</text>
+<rect x="58" y="4593" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="4614" text-anchor="middle" font-family="monospace" font-size="12">u0150</text>
+<text x="140" y="4631" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_24</text>
+<rect x="58" y="5047" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="5068" text-anchor="middle" font-family="monospace" font-size="12">u0151</text>
+<text x="140" y="5085" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_27</text>
+<rect x="58" y="1339" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="1360" text-anchor="middle" font-family="monospace" font-size="12">u0152</text>
+<text x="140" y="1377" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_05</text>
+<rect x="58" y="4661" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="4682" text-anchor="middle" font-family="monospace" font-size="12">u0154</text>
+<text x="140" y="4699" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_24</text>
+<rect x="58" y="1688" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="1709" text-anchor="middle" font-family="monospace" font-size="12">u0155</text>
+<text x="140" y="1726" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_08</text>
+<rect x="58" y="2924" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="2945" text-anchor="middle" font-family="monospace" font-size="12">u0156</text>
+<text x="140" y="2962" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_15</text>
+<rect x="58" y="2267" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="2288" text-anchor="middle" font-family="monospace" font-size="12">u0159</text>
+<text x="140" y="2305" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_11</text>
+<rect x="58" y="3696" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="3717" text-anchor="middle" font-family="monospace" font-size="12">u0160</text>
+<text x="140" y="3734" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_19</text>
+<rect x="58" y="567" width="164" height="48" rx="7" fill="#fef3c7" stroke="#475569"/>
+<text x="140" y="588" text-anchor="middle" font-family="monospace" font-size="12">u0293</text>
+<text x="140" y="605" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">block_01</text>
+<rect x="568" y="51" width="164" height="48" rx="7" fill="#dbeafe" stroke="#475569"/>
+<text x="650" y="72" text-anchor="middle" font-family="monospace" font-size="12">u0103</text>
+<text x="650" y="89" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">local</text>
+<rect x="568" y="119" width="164" height="48" rx="7" fill="#dbeafe" stroke="#475569"/>
+<text x="650" y="140" text-anchor="middle" font-family="monospace" font-size="12">u0144</text>
+<text x="650" y="157" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">local</text>
+</svg>
