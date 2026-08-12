@@ -192,3 +192,32 @@ Yes, it is a string.
 ```
 The night sky awaits
 ```
+
+### Besides + 1
+
+After finishing this writeup, I found some more blocks at the bottom of the GDS. They do not seem to affect the function of the circuit.
+
+<img src="pics/morse.png" width="800">
+
+The corresponding binary sequence is:
+
+```
+10111011101000100010111010000000101110001011101000100011101000101110001110111000000010111000111010100000001011100010101000111000101110100010111
+```
+
+I tried different word lengths and bit orders to decode it as ASCII, but none of them seemed to give any useful information.
+
+But notice that blocks with lengths of 1 and 3 appear. Maybe it is Morse code?
+
+Writing it down as Morse code gives:
+
+```
+.--. . .-.
+.- .-. . -. .- --
+.- -..
+.- ... - .-. .-
+```
+
+This is `PER ARENAM AD ASTRA`.
+
+I searched for it, and it seems to be Latin.
