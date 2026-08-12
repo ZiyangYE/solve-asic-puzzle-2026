@@ -1,0 +1,12 @@
+[submodule "asic-puzzle-2026"]
+	path = asic-puzzle-2026
+	url = https://github.com/janestreet/asic-puzzle-2026.git
+[submodule "third_party/sky130_klayout_pdk"]
+	path = third_party/sky130_klayout_pdk
+	url = https://github.com/efabless/sky130_klayout_pdk.git
+[submodule "third_party/skywater-pdk-libs-sky130_fd_sc_hd"]
+	path = third_party/skywater-pdk-libs-sky130_fd_sc_hd
+	url = https://github.com/google/skywater-pdk-libs-sky130_fd_sc_hd.git
+[submodule "third_party/minisat"]
+	path = third_party/minisat
+	url = https://github.com/niklasso/minisat.git
